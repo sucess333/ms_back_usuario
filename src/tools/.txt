@@ -1,0 +1,9 @@
+1. montarlo en github - organization
+2. post, get, get, put, delete
+3. crear base de datos => tabla minimo 1 campo
+4. exportar la db y save en el proyecto
+5. crear la collage y save en el proyecto
+6. no montar la folder node_modules a github
+7. construir el distribuidor -dist
+8. sacar apuntes
+9. ultimo commit se llama "entrega final"
