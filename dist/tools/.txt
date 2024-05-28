@@ -6,4 +6,4 @@
 6. no montar la folder node_modules a github
 7. construir el distribuidor -dist
 8. sacar apuntes
-9. ultimo commit se llama "entrega final".
+9. ultimo commit se llama "entrega final"
